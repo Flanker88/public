@@ -1,0 +1,19 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.menu {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.menu:hover {
+    color: darkred;
+}
